@@ -1,0 +1,6 @@
+framework module Pods_LikePinterest {
+  umbrella header "Pods-LikePinterest-umbrella.h"
+
+  export *
+  module * { export * }
+}
